@@ -1,0 +1,7 @@
+2022-09-14 12:10:27,314  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2022-09-14 12:10:27,524  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2022-09-14 12:10:27,529  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\2145921\Downloads\PolicyAdminMicroservice-master\PolicyAdminMicroservice-master\ConsumerMicroservice
+ 2022-09-14 16:35:53,500  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2022-09-14 16:35:58,104  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2022-09-14 16:35:58,151  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\2145921\Downloads\PolicyAdminMicroservice-master\PolicyAdminMicroservice-master\ConsumerMicroservice
+ 

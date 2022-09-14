@@ -1,0 +1,43 @@
+2022-09-12 00:08:09,494  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2022-09-12 00:08:09,786  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2022-09-12 00:08:09,794  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\2145921\Downloads\PolicyAdminMicroservice-master\PolicyAdminMicroservice-master\ConsumerMicroservice
+ 2022-09-12 00:08:57,786  INFO ConsumerMicroservice.Models.Consumer.CreateProperty [158] - MESSAGE: Controller ready for creating new record
+ 2022-09-12 00:12:58,326  INFO ConsumerMicroservice.Models.Consumer.CreateProperty [158] - MESSAGE: Controller ready for creating new record
+ 2022-09-12 00:42:21,849  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2022-09-12 00:42:22,495  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2022-09-12 00:42:22,614  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\2145921\Downloads\PolicyAdminMicroservice-master\PolicyAdminMicroservice-master\ConsumerMicroservice
+ 2022-09-12 00:43:05,262  INFO ConsumerMicroservice.Models.Consumer.CreateProperty [158] - MESSAGE: Controller ready for creating new record
+ 2022-09-12 00:52:13,946  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2022-09-12 00:52:14,400  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2022-09-12 00:52:14,415  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\2145921\Downloads\PolicyAdminMicroservice-master\PolicyAdminMicroservice-master\ConsumerMicroservice
+ 2022-09-12 00:55:02,938  INFO ConsumerMicroservice.Models.Consumer.CreateProperty [158] - MESSAGE: Controller ready for creating new record
+ 2022-09-12 01:06:55,803  INFO ConsumerMicroservice.Models.Consumer.CreateProperty [158] - MESSAGE: Controller ready for creating new record
+ 2022-09-12 01:16:00,550  INFO ConsumerMicroservice.Models.Consumer.CreateProperty [158] - MESSAGE: Controller ready for creating new record
+ 2022-09-12 09:39:19,170  INFO ConsumerMicroservice.Models.Consumer.CreateConsumer [100] - MESSAGE: Controller ready for creating new record
+ 2022-09-12 09:40:55,925  INFO ConsumerMicroservice.Models.Consumer.UpdateConsumer [184] - MESSAGE: Controller ready for updating new record
+ 2022-09-12 09:43:37,956  INFO ConsumerMicroservice.Models.Consumer.UpdateConsumer [184] - MESSAGE: Controller ready for updating new record
+ 2022-09-12 10:00:10,083  INFO ConsumerMicroservice.Models.Consumer.CreateProperty [158] - MESSAGE: Controller ready for creating new record
+ 2022-09-12 10:00:19,275  INFO ConsumerMicroservice.Models.Consumer.CreateProperty [158] - MESSAGE: Controller ready for creating new record
+ 2022-09-12 11:06:42,992  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2022-09-12 11:06:43,326  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2022-09-12 11:06:43,331  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\2145921\Downloads\PolicyAdminMicroservice-master\PolicyAdminMicroservice-master\ConsumerMicroservice
+ 2022-09-12 11:21:57,854  INFO ConsumerMicroservice.Models.Consumer.UpdateProperty [241] - MESSAGE: Controller ready for updating new record
+ 2022-09-12 11:37:18,956  INFO ConsumerMicroservice.Models.Consumer.UpdateConsumer [185] - MESSAGE: Controller ready for updating new record
+ 2022-09-12 11:38:21,962  INFO ConsumerMicroservice.Models.Consumer.UpdateProperty [241] - MESSAGE: Controller ready for updating new record
+ 2022-09-12 11:58:24,162  INFO ConsumerMicroservice.Models.Consumer.CreateConsumer [101] - MESSAGE: Controller ready for creating new record
+ 2022-09-12 11:58:27,246  INFO ConsumerMicroservice.Models.Consumer.CreateConsumer [101] - MESSAGE: Controller ready for creating new record
+ 2022-09-12 12:06:13,987  INFO ConsumerMicroservice.Models.Consumer.UpdateConsumer [185] - MESSAGE: Controller ready for updating new record
+ 2022-09-12 12:11:37,732  INFO ConsumerMicroservice.Models.Consumer.UpdateConsumer [185] - MESSAGE: Controller ready for updating new record
+ 2022-09-12 12:37:05,049  INFO ConsumerMicroservice.Models.Consumer.CreateConsumer [101] - MESSAGE: Controller ready for creating new record
+ 2022-09-12 12:39:34,708  INFO ConsumerMicroservice.Models.Consumer.UpdateConsumer [185] - MESSAGE: Controller ready for updating new record
+ 2022-09-12 12:40:59,258  INFO ConsumerMicroservice.Models.Consumer.CreateProperty [159] - MESSAGE: Controller ready for creating new record
+ 2022-09-12 12:49:58,278  INFO ConsumerMicroservice.Models.Consumer.UpdateProperty [241] - MESSAGE: Controller ready for updating new record
+ 2022-09-12 16:00:10,302  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2022-09-12 16:00:11,126  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2022-09-12 16:00:14,641  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\2145921\Downloads\PolicyAdminMicroservice-master\PolicyAdminMicroservice-master\ConsumerMicroservice
+ 2022-09-12 22:41:58,449  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2022-09-12 22:41:59,746  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2022-09-12 22:41:59,762  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\2145921\Downloads\PolicyAdminMicroservice-master\PolicyAdminMicroservice-master\ConsumerMicroservice
+ 2022-09-12 23:34:37,363  INFO ConsumerMicroservice.Models.Consumer.CreateConsumer [101] - MESSAGE: Controller ready for creating new record
+ 2022-09-12 23:34:38,438  INFO ConsumerMicroservice.Models.Consumer.CreateConsumer [101] - MESSAGE: Controller ready for creating new record
+ 
